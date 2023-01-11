@@ -1,4 +1,4 @@
-// Tasks from the end of chapter 2
+// Tasks from the end of chapter 2 - output is stored at the end of this file
 #include <iostream>
 void entliczek(void);
 void czerwony(void);
