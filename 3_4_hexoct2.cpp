@@ -17,3 +17,10 @@ int main()
 
     return 0;
 }
+// Output:
+/*
+What a figure!
+Bust size = 42 (decimal for 42)
+Waist = 2a (hexadecimal for 42)
+Pantleg length = 52 (oct for 42)
+*/
